@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+# El reporte se genera al correr; súbelo solo en tu entrega final
+reportes/
+test-results/
